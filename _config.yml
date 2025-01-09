@@ -6,3 +6,8 @@ url: https://sophiebunge.github.io/project-documentation/
 
 aux_links: # remove if you don't want this link to appear on your pages
   Template Repository: https://github.com/sophiebunge/project-documentation
+
+sass:
+  load_paths:
+    - _sass
+  
