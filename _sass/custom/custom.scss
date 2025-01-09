@@ -1,8 +1,7 @@
-
-
-$theme-primary: #ff5733; // Customize the primary color
-$theme-secondary: #4caf50; // Customize the secondary color
-$theme-accent: #33c3ff; // Customize the accent color
-$body-bg: #121212; // Customize background color
-$body-color: #ffffff; // Customize text color
-
+:root {
+  --theme-primary: #ff5733;
+  --theme-secondary: #4caf50;
+  --theme-accent: #33c3ff;
+  --body-bg: #121212;
+  --body-color: #ffffff;
+}
