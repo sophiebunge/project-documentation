@@ -10,4 +10,6 @@ aux_links: # remove if you don't want this link to appear on your pages
 sass:
   load_paths:
     - _sass
+
+nav_enabled: true    
   
